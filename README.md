@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zlip123
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Computer Sciecne at Georgia Tech
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I am working with GTRI on their ESCS VIP
 - 📫 How to reach me hlipscutz3@gatech.edu
 
 <!---
