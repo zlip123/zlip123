@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @zlip123
+- 👋 Hi, I’m Zelda
+- My Professional GitHub is https://github.gatech.edu/hlipschutz3
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Computer Sciecne at Georgia Tech
+- 🌱 I’m currently majoring in Computer Sciecne at Georgia Tech
 - 💞️ I am working with GTRI on their ESCS VIP
 - 📫 How to reach me hlipscutz3@gatech.edu
 
